@@ -1,2 +1,20 @@
 # BMI-Calculator
-This project aims to create a body mass index calculator. There are two input fields where the user can enter their height in centimeters and weight in kilograms. By clicking the "compute BMI" button, the BMI will be calculated and displayed along with the weight condition, which is determined by if statements based on the BMI. We will also install the project with a neumorphism design and use JavaScript to calculate the BMI. All results will be displayed inside the input field and at the end of the container.
+
+1. Objective:
+   - Develop a body mass index (BMI) calculator.
+
+2. Functionality:
+   - Two input fields: height in centimeters and weight in kilograms.
+   - Calculate BMI when the "compute BMI" button is clicked.
+   - Display BMI result along with weight condition.
+   - Weight condition determined by if statements based on BMI.
+   - Use neumorphism design for project installation.
+   - Display results inside the input field and at the end of the container.
+
+3. Technologies:
+   - HTML: Create input fields and button.
+   - CSS: Style the project with neumorphism design.
+   - JavaScript:
+     - Calculate BMI.
+     - Display results.
+     - Implement if statements for weight condition.
